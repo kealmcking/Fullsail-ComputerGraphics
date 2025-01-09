@@ -21,21 +21,9 @@
     <ClCompile Include="src\RasterSurface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\XTime.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\RasterSurface.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="include\XTime.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="tiles_12.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="fire_02.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
