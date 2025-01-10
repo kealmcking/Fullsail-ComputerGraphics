@@ -132,10 +132,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="src\RasterSurface.cpp" />
+    <ClCompile Include="RasterSurface.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\RasterSurface.h" />
+    <ClInclude Include="Graphics_Math.h" />
+    <ClInclude Include="RasterSurface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

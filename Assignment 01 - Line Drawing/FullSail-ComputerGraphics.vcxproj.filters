@@ -18,12 +18,15 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RasterSurface.cpp">
+    <ClCompile Include="RasterSurface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\RasterSurface.h">
+    <ClInclude Include="Graphics_Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RasterSurface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
